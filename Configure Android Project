@@ -1,0 +1,11 @@
+Configure Android Project :
+
+Configure the project
+
+For this app project use this configuration:
+
+Name: Temperature Converter
+Package: com.example.android.temperatureconverter
+Project location: < Your choice of where to save this project on your computer >
+Language: Kotlin
+Minimum API: leave the default values
