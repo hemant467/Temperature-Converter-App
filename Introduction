@@ -1,0 +1,5 @@
+Temperature converter app helps in converting temperature from celsius to fahrenheit.
+
+0°C = 32F
+
+Formula :  (0°C × 9/5) + 32 = 32°F
